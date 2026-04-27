@@ -1,0 +1,154 @@
+[
+    {
+        "questions": ["hi", "hello", "hey", "greetings"],
+        "answer": "Welcome to Jayaraj Annapackiam CSI College of Engineering (JACSICE). I am the official campus AI assistant. How may I help you with your academic inquiries today?"
+    },
+    {
+        "questions": ["college name", "what is your college name", "about college"],
+        "answer": "Our esteemed institution is the Jayaraj Annapackiam CSI College of Engineering (JACSICE), proudly situated in Nazareth, Tamil Nadu."
+    },
+    {
+        "questions": ["where is college located", "college location", "address"],
+        "answer": "JACSICE is strategically located in the serene environment of Nazareth, Thoothukudi district, Tamil Nadu, providing an ideal atmosphere for focused academic pursuits."
+    },
+    {
+        "questions": ["courses offered", "what courses available", "departments"],
+        "answer": "JACSICE offers a comprehensive suite of academic programs. Our Undergraduate degrees include B.E. in Computer Science (CSE), Electronics and Communication (ECE), Mechanical Engineering, and B.Tech in Information Technology (IT) and Artificial Intelligence & Data Science (AI&DS). We also offer Postgraduate degrees including M.E. in CSE and a Master of Business Administration (MBA)."
+    },
+    {
+        "questions": ["cse available", "computer science course", "cse seats"],
+        "answer": "Yes, our highly sought-after B.E. in Computer Science and Engineering program is available and currently accommodates an intake of 120 students per academic year."
+    },
+    {
+        "questions": ["ece seats", "electronics seats", "ece department"],
+        "answer": "The Department of Electronics and Communication Engineering (ECE) offers a robust program with an annual intake capacity of 60 students."
+    },
+    {
+        "questions": ["it course details", "information technology"],
+        "answer": "We proudly offer a B.Tech in Information Technology, designed to equip students with cutting-edge software and networking skills for the modern tech industry."
+    },
+    {
+        "questions": ["aids course", "ai ds course", "artificial intelligence"],
+        "answer": "To meet future industry demands, JACSICE offers a specialized B.Tech degree in Artificial Intelligence and Data Science (AI&DS)."
+    },
+    {
+        "questions": ["mechanical course", "mech department"],
+        "answer": "Mechanical Engineering is one of our foundational core departments, focusing on advanced manufacturing, design, and thermal sciences."
+    },
+    {
+        "questions": ["mba available", "management course"],
+        "answer": "Yes, our Department of Management Studies offers a comprehensive Master of Business Administration (MBA) program for aspiring corporate leaders."
+    },
+    {
+        "questions": ["principal name", "who is principal"],
+        "answer": "The institution is led by our distinguished Principal, Dr. S. Jeyakumar."
+    },
+    {
+        "questions": ["principal email", "principal mail id", "contact principal"],
+        "answer": "You can reach the Principal's office directly via email at principal@jacsicoe.in."
+    },
+    {
+        "questions": ["cse hod name", "head of cse"],
+        "answer": "The Computer Science and Engineering department is guided by Dr. G. Jemilda, who serves as the Head of the Department (HOD)."
+    },
+    {
+        "questions": ["jemilda details", "hod specialization"],
+        "answer": "Dr. G. Jemilda is a respected academic whose primary area of research and specialization is Image Processing."
+    },
+    {
+        "questions": ["prema staff", "c prema"],
+        "answer": "Dr. C. Prema is an esteemed Professor in our department, bringing extensive expertise in Image Processing."
+    },
+    {
+        "questions": ["emily esther rani", "ml staff", "machine learning faculty"],
+        "answer": "Mrs. Emily Esther Rani serves as an Assistant Professor, specializing in the rapidly evolving field of Machine Learning."
+    },
+    {
+        "questions": ["regina elizabeth", "network security staff"],
+        "answer": "Mrs. Regina Elizabeth is a dedicated faculty member with specialized knowledge in Network Security."
+    },
+    {
+        "questions": ["sathyaraj staff", "software engineering staff"],
+        "answer": "Mr. R.S. Sathyaraj is a key faculty member whose core specialization lies in Software Engineering."
+    },
+    {
+        "questions": ["bamila rachel", "mobile computing staff"],
+        "answer": "Mrs. Bamila Rachel imparts her expert knowledge to students in the field of Mobile Computing."
+    },
+    {
+        "questions": ["princess bala", "image processing staff"],
+        "answer": "Mrs. Princess Bala is an integral part of our faculty, specializing in Image Processing technologies."
+    },
+    {
+        "questions": ["suganya staff", "web application staff"],
+        "answer": "Mrs. Suganya is a specialized instructor focusing on Modern Web Application Development."
+    },
+    {
+        "questions": ["sheela staff", "image processing sheela"],
+        "answer": "Mrs. Y. Sheela contributes to our academic excellence with her specialization in Image Processing."
+    },
+    {
+        "questions": ["sharon jenice", "networking staff"],
+        "answer": "Mrs. Sharon Jenice is a highly qualified faculty member specializing in Computer Networking."
+    },
+    {
+        "questions": ["suncia ashrine", "networking faculty"],
+        "answer": "Mrs. Suncia Ashrine provides expert instruction in the domain of Advanced Networking."
+    },
+    {
+        "questions": ["arockia nisha", "machine learning staff"],
+        "answer": "Ms. Arockia Nisha is an Assistant Professor dedicated to teaching Machine Learning and AI concepts."
+    },
+    {
+        "questions": ["system admin", "technical staff"],
+        "answer": "Our advanced computing infrastructure is managed by our System Administrator, Mr. J. Jebastine Daniel."
+    },
+    {
+        "questions": ["lab instructor", "technical lab staff"],
+        "answer": "Our practical laboratory sessions are expertly guided by our technical staff, including Mrs. Joybell Gladys, Mr. Ephraim, and Ms. Shiny Rency."
+    },
+    {
+        "questions": ["fees structure", "college fees", "how much is fees"],
+        "answer": "The fee structure varies depending on the specific program and admission quota. We encourage prospective students to contact the administrative office directly for the most accurate and personalized fee details."
+    },
+    {
+        "questions": ["hostel details", "hostel fees", "accommodation"],
+        "answer": "JACSICE provides secure, well-maintained hostel facilities for students, offering excellent amenities, hygienic food, and a conducive environment for studying at highly affordable rates."
+    },
+    {
+        "questions": ["bus facility", "transport", "college bus"],
+        "answer": "For the convenience of our day scholars, the college operates a comprehensive fleet of buses covering extensive routes across nearby towns and districts."
+    },
+    {
+        "questions": ["admission process", "how to apply", "join college"],
+        "answer": "Admissions are granted strictly based on academic eligibility and the official state counseling process. Prospective students can apply via the Anna University guidelines or contact our admission cell for management quota details."
+    },
+    {
+        "questions": ["documents required", "admission documents", "certificates"],
+        "answer": "During the admission process, candidates must submit their original 10th and 12th-grade mark sheets, official Transfer Certificate (TC), Community Certificate, and valid ID proofs."
+    },
+    {
+        "questions": ["eligibility criteria", "who can apply"],
+        "answer": "Candidates must have successfully completed their Higher Secondary (12th grade) examinations with the minimum required percentage in Physics, Chemistry, and Mathematics as mandated by Anna University norms."
+    },
+    {
+        "questions": ["college website", "official website"],
+        "answer": "For the most detailed and up-to-date information, please visit our official institution website at https://www.jacsicoe.in."
+    },
+    {
+        "questions": ["library details", "library", "books"],
+        "answer": "Our central library is a vast repository of knowledge, fully equipped with a massive collection of engineering textbooks, reference materials, international journals, and modern digital e-learning resources."
+    },
+    {
+        "questions": ["wifi available", "internet facility"],
+        "answer": "To support digital learning, the entire JACSICE campus is enabled with high-speed, secure Wi-Fi access for all students and faculty."
+    },
+    {
+        "questions": ["canteen", "food facility"],
+        "answer": "The campus houses a highly hygienic and well-maintained cafeteria that provides nutritious and affordable meals and refreshments throughout the day."
+    },
+    {
+        "questions": ["scholarship", "financial aid"],
+        "answer": "JACSICE is committed to accessible education. Various government and institutional scholarships are available to meritorious and economically disadvantaged students based on strict eligibility criteria."
+    }
+]
