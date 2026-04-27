@@ -192,7 +192,8 @@ COLLEGE DATA:
 
 # --- CONFIGURE AI (GROQ) ---
 # Streamlit will pull this securely from the cloud settings
-client = Groq(api_key=st.secrets["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"])
+# --- CONFIGURE AI (GROQ) ---
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 # --- APP ROUTING & STATE ---
 if "current_page" not in st.session_state:
